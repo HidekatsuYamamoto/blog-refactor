@@ -28,6 +28,9 @@
 }
 
 :root {
+  /* トップページ、カテゴリページのタイトルの       */ 
+  /* font-sizeを**SP→28p**x, **PC→36px**にしたい */
+ */
   --font-size-for-title-in-SP: 28px;
   --font-size-for-title-in-PC: 36px; 
 }
