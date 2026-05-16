@@ -288,7 +288,9 @@ body {
 }
 
 .m_post_meta-cat {
-  color: var(--primary-color);
+  /* color: var(--primary-color); */
+  color: var(--white-color);
+  background-color: var(--primary-color); /* modified by H.Yamamoto on 5/16 */
   font-size: 12px;
   font-weight: bold;
   width: 112px;
